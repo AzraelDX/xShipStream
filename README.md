@@ -12,8 +12,6 @@ xStream und xShip bereit.
 * xStream
 * xShip
 
-Es werden ausschließlich originale, unveränderte Releases angeboten.
-
 ## Funktionsweise
 
 Die in diesem Repository angebotenen Addons sind reine Such- und Indexierungswerkzeuge.
@@ -29,7 +27,6 @@ Die Addons verweisen ausschließlich auf öffentlich erreichbare Quellen im Inte
 * Dieses Repository stellt ausschließlich Software bereit
 * Es werden keine urheberrechtlich geschützten Inhalte gespeichert oder verbreitet
 * Für externe Quellen sind ausschließlich deren jeweilige Betreiber verantwortlich
-* Die Nutzung erfolgt auf eigene Verantwortung und im Rahmen der geltenden Gesetze
 
 ## Hinweis
 
