@@ -64,7 +64,7 @@
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
   
-  <extension point="xbmc.python.module" library="libs"/>
+  <extension point="xbmc.python.module" library="lib"/>
   <extension point="xbmc.addon.metadata">
   <summary lang="en_GB">Wrappers around Kodi Python API for seamless Python 2/3 compatibility</summary>
   <description lang="en_GB">Wrappers around Kodi Python API that normalize handling of textual and byte strings in Python 2 and 3.</description>
